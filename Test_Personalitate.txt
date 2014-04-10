@@ -1,0 +1,105 @@
+1.	Cum te relaxezi dupa o zi aglomerata?
+a.	Acasa, la mine in dormitor
+b.	Ies in parc, la o plimbare
+c.	La cinema
+d.	La o plimbare in oras
+2.	Vremea de afara iti strica planurile de weekend. Care e reactia ta?
+a.	Anulez tot
+b.	Incerc sa imi readaptez planurile
+c.	Nu ma afecteaza, imi continui planurile
+d.	Nu tin cont de vremea de afara cand imi fac planuri
+3.	Cum vezi o  intalnire perfecta?
+a.	Cina la un restaurant pretentios
+b.	O plimbare cu barca
+c.	Un concert
+d.	In club
+4.	Cum iti alegi destinatia de vacanta?
+a.	Las persoanele care ma insotesc sa decida
+b.	Incerc tot timpul sa vizitez locuri noi
+c.	Ascult recomandarile prietenilor
+d.	Ma documentez pe internet
+5.	Care este secretul unui concediu reusit?
+a.	Sa fiu insotit de persoana iubita
+b.	Sa fiu alaturi de toti prietenii mei
+c.	Sa fie vremea frumoasa
+d.	Locatia potrivita este marele secret
+6.	Care este muzica ta preferata?
+a.	Folk
+b.	Jazz
+c.	Pop
+d.	Rock
+7.	Care parte a zilei iti place cel mai tare?
+a.	Dimineata 
+b.	Pranzul
+c.	Dupa-amiaza
+d.	Noaptea
+8.	Ce animal de companie ti-ar placea sa ai?
+a.	Caine/Pisica
+b.	Pasari/Acvaristica
+c.	Maimuta
+d.	Reptila
+9.	Ce gen de filme preferi?
+a.	Romantice
+b.	Comedii
+c.	Documentare
+d.	De actiune/Horror
+10.	Care este bautura ta preferata?
+a.	Ceaiul
+b.	Cafeaua
+c.	Sucuri, in general
+d.	Bauturi alcoolice
+11.	Care este culoarea ta preferata?
+a.	Prefer non-culorile
+b.	Verde 
+c.	Rosu sau portocaliu
+d.	Albastru
+12.	Cum iti petreci, de obicei, vacanta?
+a.	Plec intr-un loc linistit cu familia
+b.	Imi plac vacantele neconventionale 
+c.	Fac excursii si drumetii
+d.	Depinde, de la caz la caz
+13.	Care din variantele de mai jos te descrie cel mai bine?
+a.	Calm, increzator, ambitios
+b.	Creativ, atent, efficient
+c.	Vesel, optimist, prietenos
+d.	Pesimist, modest, echilibrat
+14.	Care este primul lucru pe care il faci cand ajungi intr-un oras nou?
+a.	Incerc sa observ modul de viata al localnicilor
+b.	Incerc sa descopar locurile frumoase din oras
+c.	Ma interesez care e ce mai bun restaurant cu produse traditionale
+d.	Ma indrept spre cel mai exclusivist club din oras
+15.	Cum te pregatesti de vacanta?	
+a.	Imi cumpar cat mai multe haine noi
+b.	Citesc despre destinatie
+c.	Imi pregatesc bagajul doar cu lucrurile strict necesare
+d.	Imi pregatesc bagajul care contine si o multime de lucruri inutile
+16.	Ce fel de suveniruri aduci din locurile pe care le vizitezi?
+a.	Pietre, scoici
+b.	Dulciuri traditionale din zona respective
+c.	Bijuterii
+d.	Haine traditionale din zona respective
+17.	Care dintre urmatoarele variante te atrage mai mult?
+a.	Un hotel intr-o zona linistita, cu legaturi de transport 
+b.	O pensiune micuta intr-o zona izolata
+c.	Un hotel in mijlocul statiunii
+d.	Oriunde, atata timp cat peisajul este deosebit
+18.	Cuvantul pe care il asociezi cu vacanta este:
+a.	Odihna
+b.	Relaxare
+c.	Distractie
+d.	Calatorie
+19.	Care este mijlocul de transport pe care il preferi?
+a.	Trenul
+b.	Motocicleta
+c.	Masina personala
+d.	Avionul
+20.	Unde ti-ar placea sa iti petreci vacanta?
+a.	In natura, de preferat cu cortul
+b.	Intr-o zona izolata
+c.	Intr-o zona linistita
+d.	Intr-un oras aglomerat
+Fiecare test ? 5 intrebari random. Fiecare raspuns are atasat un scor dupa cum urmeaza: raspunsul a – 1 punct, raspunsul b – 2 puncte, raspunsul c – 3 puncte, raspunsul d – 4 puncte. Astfel, utilizatorul poate obtine un scor intre 5 si 20 de puncte, raspunsurile fiind urmatoarele:
+•	5 - 7 puncte
+•	7 – 12 puncte
+•	12 -16 puncte
+•	16 – 20 puncte
