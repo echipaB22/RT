@@ -1,0 +1,61 @@
+
+CREATE TABLE Judet
+(
+id_judet int NOT NULL PRIMARY KEY,
+denumire varchar(50)
+)
+
+
+
+CREATE TABLE Ocazii_speciale
+(
+id_ocazie int NOT NULL PRIMARY KEY,
+denumire varchar(50),
+descriere varchar(50),
+poza varchar(50),
+id_judet int FOREIGN KEY REFERENCES Judet(id_judet)
+)
+
+
+CREATE TABLE Pcte_atractie
+(
+id_pct_atractie int NOT NULL PRIMARY KEY,
+denumire varchar(50),
+descriere varchar(255),
+id_judet int FOREIGN KEY REFERENCES Judet(id_judet)
+)
+
+CREATE TABLE Utilizator
+(
+id_utilizator int NOT NULL PRIMARY KEY,
+nume varchar(50),
+prenume varchar(50),
+email varchar(50),
+user_name varchar(50) 
+)
+
+
+CREATE TABLE Postare
+(
+id_postare int NOT NULL PRIMARY KEY,
+nume_utilizator varchar(50),
+comentariu varchar(255),
+poza varchar(50),
+id_utilizator int FOREIGN KEY REFERENCES Utilizator(id_utilizator)
+)
+
+
+CREATE TABLE Grup
+(
+id_grup int NOT NULL PRIMARY KEY,
+administrator varchar(50),
+denumire varchar(50),
+descriere varchar(50)
+)
+
+
+CREATE TABLE Grup_utilizatori
+(
+id_grup int FOREIGN KEY REFERENCES Grup(id_grup),
+id_utilizator int FOREIGN KEY REFERENCES Utilizator(id_utilizator)
+)
