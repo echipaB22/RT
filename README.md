@@ -1,4 +1,0 @@
-RT
-==
-
-Proiect Ingineria Programarii
