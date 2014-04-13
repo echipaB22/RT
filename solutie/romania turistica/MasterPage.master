@@ -1,0 +1,103 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="romania_turistica_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>ROMANIA TURISTICA</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+   
+    <form id="form1" runat="server">
+        <div id="header">
+            <div class="title">
+                <ul id="menu">
+
+
+                    <li><a href="Home.aspx">Acasa</a></li>
+                    <li><a href="DespreNoi.aspx">Despre Noi</a></li>
+                    <li><a href="Grupuri.aspx">Grupuri</a></li>
+                    <li><a href="Concurs.aspx">Concurs</a></li>
+                    <li><a href="Contact.aspx">Contact</a></li>
+                    <li><a href="Login.aspx">Logare</a></li>
+                    <li><a href="Registration.aspx">Inregistrare</a></li>
+
+                </ul>
+
+            </div>
+        </div>
+        <div id="wrapper">
+            <div id="sidebar">
+                <div class="logo_block">
+                    <a href="#">
+                        <img src="images/logo.png" alt="setalpm" width="192" height="50" /></a><br />
+                </div>
+                <div class="news">
+                    <div class="title">OFERTE SPECIALE</div>
+                </div>
+                <div class="title">
+                    <ul id="navigation">
+                        <li class="color"><a href="OcaziiSpeciale.aspx">Ocazii Speciale</a></li>
+                        <li><a href="Craciun.aspx">Craciun</a></li>
+                        <li class="color"><a href="Paste.aspx">Paste</a></li>
+                        <li><a href="Revelion.aspx">Revelion</a></li>
+                        <li class="color"><a href="Dragobete.aspx">Dragobete</a></li>
+                        <li><a href="1mai.aspx">1 mai</a></li>
+
+
+                    </ul>
+                </div>
+
+            </div>
+
+            <div id="content">
+                <div class="search"></div>
+                <div class="bg">
+                    <div class="column1">
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                       
+                        </asp:ContentPlaceHolder>
+
+
+                    </div>
+                    <div class="column2">
+
+                        <div class="news">
+
+                            <span class="red">&nbsp;&nbsp;&nbsp; Nu stii inca unde iti vei petrece urmatoarea vacanta??
+                        &nbsp;&nbsp;&nbsp; 
+                         <br />
+                                &nbsp;&nbsp;&nbsp; Raspunde la urmatoarele intrebari si vei afla ce destinatii ti se potrivesc.
+						
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+
+                            </span> 
+                            <ul><li><font size="3" color="maroon"><a href="Test.aspx">Test de personlitate</a></font></li></ul>
+                          
+                        </div>
+                         
+                        <div class="news">
+                             <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                 <span>12 may 0000</span><br />
+                                 <img src="images/pic5.jpg" alt="" width="183" height="97" />
+                            
+                                 </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <ul>
+                <li><a href="Home.aspx">Acasa
+                <li><a href="Grupuri.aspx">Grupuri</a></li>
+                <li><a href="Concurs.aspx">Concurs</a></li>
+                <li><a href="Contact.aspx">Contact</a></li>
+            </ul>
+        </div>
+    </form>
+  
+</body>
+</html>

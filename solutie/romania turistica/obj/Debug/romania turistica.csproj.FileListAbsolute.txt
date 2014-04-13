@@ -1,0 +1,6 @@
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\bin\romania turistica.dll.config
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\bin\romania turistica.dll
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\bin\romania turistica.pdb
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\obj\Debug\romania turistica.csprojResolveAssemblyReference.cache
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\obj\Debug\romania turistica.dll
+c:\users\lilia\documents\visual studio 2013\Projects\solutie\romania turistica\obj\Debug\romania turistica.pdb
