@@ -1,0 +1,24 @@
+ScreenScraper:
+
+1. Site-uri de referinta:
+	a. http://locuridinromania.ro/categorie/zone-din-romania/banat-zone-din-romania
+	b. http://www.hailabord.ro/p/orase-si-statiuni.html
+	
+2. Key points pentru extragerea datelor:
+	a. regiunea 
+	b. titlul locatiei
+	c. descrierea locatiei
+	d. locatia exacta
+	
+3. Modul de stocare a datelor in baza de date:
+
+	Datele vor fi stocate pe regiuni. 
+	Fiecare regiune va avea un ID unic si un nume. 
+	Fiecare regiune va contine o lista cu obiective turistice. Fiecare obiectiv turistic va avea: 
+		- un ID propriu
+		- ID-ul regiunii din care face parte
+		- titlul obiectivului
+		- descrierea acestuia
+		- locatia exacta in regiunea respectiva.
+		
+Am adaugat ceea ce am reusit sa lucrez pana acum.
